@@ -1,0 +1,9 @@
+c:\users\герман\documents\visual studio 2015\Projects\Typer_Pre_Alpha\Typer_Pre_Alpha\bin\Debug\Typer_Pre_Alpha.exe.config
+c:\users\герман\documents\visual studio 2015\Projects\Typer_Pre_Alpha\Typer_Pre_Alpha\bin\Debug\Typer_Pre_Alpha.exe
+c:\users\герман\documents\visual studio 2015\Projects\Typer_Pre_Alpha\Typer_Pre_Alpha\bin\Debug\Typer_Pre_Alpha.pdb
+c:\users\герман\documents\visual studio 2015\Projects\Typer_Pre_Alpha\Typer_Pre_Alpha\obj\Debug\Typer_Pre_Alpha.csprojResolveAssemblyReference.cache
+c:\users\герман\documents\visual studio 2015\Projects\Typer_Pre_Alpha\Typer_Pre_Alpha\obj\Debug\Typer_Pre_Alpha.Design.resources
+c:\users\герман\documents\visual studio 2015\Projects\Typer_Pre_Alpha\Typer_Pre_Alpha\obj\Debug\Typer_Pre_Alpha.Properties.Resources.resources
+c:\users\герман\documents\visual studio 2015\Projects\Typer_Pre_Alpha\Typer_Pre_Alpha\obj\Debug\Typer_Pre_Alpha.csproj.GenerateResource.Cache
+c:\users\герман\documents\visual studio 2015\Projects\Typer_Pre_Alpha\Typer_Pre_Alpha\obj\Debug\Typer_Pre_Alpha.exe
+c:\users\герман\documents\visual studio 2015\Projects\Typer_Pre_Alpha\Typer_Pre_Alpha\obj\Debug\Typer_Pre_Alpha.pdb
